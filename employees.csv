@@ -1,4 +1,4 @@
-first_name,last_name,salary,employee_type
+last_namefirst_name,,salary,employee_type
 Alice,Munro,125000,Manager
 Ned,Kelly,85000,Employee
 Andrew,Jackson,55000,Employee
